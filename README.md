@@ -36,6 +36,7 @@ STEP-5: Display the obtained cipher text.
 
 
 ## Program:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -193,6 +194,5 @@ int main() {
 
 
 
-
-Output:
+## Output:
 ![image](https://github.com/user-attachments/assets/f8ab2ec0-a600-4c1b-8f3b-b6510a1c779e)
